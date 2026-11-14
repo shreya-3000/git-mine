@@ -1,2 +1,4 @@
 this is my file two for git repository
 adding one more line to this file
+adding third line to file 2
+fourth line is added to file 2
