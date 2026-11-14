@@ -3,3 +3,4 @@ fixed another bug
 fixed third bug
 fourth bug fix
 fifth bug fixed
+add footer note
